@@ -7,7 +7,8 @@ Hi, This is Shahariar Kabir!!!
 <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 </h1>
 
-![](https://visitor-badge.glitch.me/badge?page_id=shahriaaar007.shahriaaar007) ![GitHub followers](https://img.shields.io/github/followers/shahriaaar007?logo=gitfollower&style=social) ![GitHub User's stars](https://img.shields.io/github/stars/shahriaaar007?affiliations=owner&logo=gitstars&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=shahriaaar007.shahriaaar007) ![GitHub followers](https://img.shields.io/github/followers/shahriaaar007?logo=gitfollower&style=social) 
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/shahriaaar007?affiliations=owner&color=black&logo=gitstars&logoColor=white&style=social">
 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78B15&background=DBF2FF00&center=true&vCenter=true&width=435&lines=I+am+a+Computer+Engineer;I+love+to+learn+new+things" alt="Typing SVG" /></a>
