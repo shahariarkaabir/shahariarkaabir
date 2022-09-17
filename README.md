@@ -16,16 +16,15 @@ Hi, This is Shahariar Kabir!!!
 
 <h2> About Me<img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "45" height= "45"></h2>
 
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
-- 🔭 I’m currently student  at  Bangladesh University of        Business and Technology
+- 🔭 I’m currently student  at  Bangladesh University of Business and Technology
   
 - 🌱 I’m currently learning Manual Testing, Automation Testing
   
 - 👯 I’m looking to collaborate on Proyectos
   
 - 💬 Ask me about java, python
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 💖 Love to exploring and knowing.
 
