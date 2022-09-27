@@ -1,4 +1,4 @@
-<table>
+<table border="0">
   <tr>
     <td><img src="https://c.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif"></td>
     <td>
@@ -95,7 +95,7 @@ Hi, This is Shahariar Kabir!!!
 
 <img width="20%" align="middle" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"/>
 <hr>
-<table>
+<table border="0">
 
   <td align="center" colspan="2">
     <p><i>If you appreciate what I do and wish to support my work, you can consider buying me a ko-fi ☕</i></p>
