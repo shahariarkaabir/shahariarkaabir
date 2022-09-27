@@ -1,6 +1,15 @@
-<p align="center">
-<img src="https://c.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif">
-</p>
+<table>
+  <tr>
+    <td><img src="https://c.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif"></td>
+    <td>
+        <ul>
+          <li><strong>Name:</strong> <a href="https://www.linkedin.com/in/shahariar07/">Shahariar Kabir</a></li>
+          <li><strong>Occupation:</strong> <em>Student</em> at <a href="https://bubt.edu.bd/">Bangladesh University of Business and Technology</a>
+          <li><strong>Hobbies:</strong> Watching Film and Exploring world</li>
+        </ul>
+    </td>
+  </tr>
+  </table>
 
 <h1 align="center">
 Hi, This is Shahariar Kabir!!!
@@ -30,11 +39,14 @@ Hi, This is Shahariar Kabir!!!
 
 - 💖 Love to exploring and knowing.
 
-- 🎵 Love metal, lofi, jazz and soft music
+- 🎵 Love metal, jazz and soft music.
 
 - ⚡ Fun fact: Me encanta la hamburguesa con queso extra.
+<h4 align="center"><strong>Connect me with</strong></h4><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+          <a href="mailto:shahriarkaabir007@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/apple-mail.png"/></a>
+          <a href="https://twitter.com/shahriaaar007"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png"/></a>
+          <a href="https://www.linkedin.com/in/shahariar07/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>
   
-
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
@@ -82,3 +94,12 @@ Hi, This is Shahariar Kabir!!!
 
 
 <img width="20%" align="middle" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"/>
+<hr>
+<table>
+<tr>
+    <td align="center" colspan="2">
+      <p><i>If you appreciate what I do and wish to support my work, you can consider buying me a ko-fi ☕</i></p>
+      <a href="https://ko-fi.com/shahriar007" target="_blank"><img src="https://img.icons8.com/bubbles/200/000000/ko-fi.png" alt="ko-fi"></a>
+    </td>
+  </tr>
+</table>
