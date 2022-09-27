@@ -96,10 +96,10 @@ Hi, This is Shahariar Kabir!!!
 <img width="20%" align="middle" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"/>
 <hr>
 <table>
-<tr>
-    <td align="center" colspan="2">
-      <p><i>If you appreciate what I do and wish to support my work, you can consider buying me a ko-fi ☕</i></p>
-      <a href="https://ko-fi.com/shahriar007" target="_blank"><img src="https://img.icons8.com/bubbles/200/000000/ko-fi.png" alt="ko-fi"></a>
-    </td>
-  </tr>
+
+  <td align="center" colspan="2">
+    <p><i>If you appreciate what I do and wish to support my work, you can consider buying me a ko-fi ☕</i></p>
+    <a href="https://ko-fi.com/shahriar007" target="_blank"><img src="https://img.icons8.com/bubbles/200/000000/ko-fi.png" alt="ko-fi"></a>
+  </td>
+
 </table>
