@@ -63,7 +63,7 @@ Hi, This is Shahariar Kabir!!!
 
    <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriaaar007&layout=compact&show_icon=true&theme=algolia" alt="language"/>
    <br></br> 
-   <img  alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shahriaaar007&custom_title=Shahariar's%20Contribution%20Graph&theme=react-dark" />
+   <img  alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shahriaaar007&bg_color=0d0d0d&color=9e4c98&line=7e6ae2&point=73f2d9&area=true&hide_border=true" />
   
    </td>
  </tr>
