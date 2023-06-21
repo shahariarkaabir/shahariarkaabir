@@ -28,7 +28,7 @@ Hi, This is Shahariar Kabir!!!
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently student at Bangladesh University of Business and Technology
+- 🔭 I have completed my graduation from Bangladesh University of Business and Technology
 - 🌱 I’m currently learning Manual Testing, Automation Testing
 - 👯 I’m looking to collaborate on Proyectos
 - 💬 Ask me about java, python
