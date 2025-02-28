@@ -29,13 +29,13 @@ Hi, This is Shahariar Kabir!!!
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I have completed my graduation from Bangladesh University of Business and Technology
-- 🌱 I’m currently learning Manual Testing, Automation Testing
+- 🌱 I’m currently working as a SQA Engineer
 - 👯 I’m looking to collaborate on Proyectos
-- 💬 Ask me about java, python
+- 💬 Ask me about Software Testing Tools & Technology
 
 - 💖 Love to exploring and knowing.
 
-- 🎵 Love metal, jazz and soft music.
+- 🎵 Love programming music.
 
 - ⚡ Fun fact: Me encanta la hamburguesa con queso extra.
 <h4 align="center"><strong>Connect me with</strong></h4>
