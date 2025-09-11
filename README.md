@@ -6,7 +6,7 @@
         <ul>
           <li><strong>Name:</strong> <a href="https://www.linkedin.com/in/shahariarkaabir/">Shahariar Kabir</a></li>
           <li><strong>Occupation:</strong> <em>Junior SQA Engineer</em> at <a href="https://ibos.io/">Akij iBOS</a>
-          <li><strong>Hobbies:</strong> Watching Film and Exploring world</li>
+          <li><strong>Hobbies:</strong>Exploring & Learning</li>
         </ul>
      </td>
   </tr>
